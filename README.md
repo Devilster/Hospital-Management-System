@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Eden Hospital Management
 You can view the website here: https://eden-hospital-management.onrender.com/
 
@@ -26,3 +27,6 @@ staff can create edit delete patients
 ![Screenshot (117)](https://user-images.githubusercontent.com/87234416/132811046-65f21114-e5c3-4ea5-9f91-d9277fece0f2.png)
 
 doctor can view the patients
+=======
+# Hospital-Management-System
+>>>>>>> origin/main
