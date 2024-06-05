@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 ## Eden Hospital Management
+You can view the website here : https://hospital-management-system-virid.vercel.app/
+
 This is a hospital management system which consists of doctors who can view all the patients, staffs who can add patients and admin who can add or remove staffs and doctos
 
 ## Login
