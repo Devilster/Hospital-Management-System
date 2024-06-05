@@ -1,8 +1,5 @@
 <<<<<<< HEAD
 ## Eden Hospital Management
-You can view the website here: https://eden-hospital-management.onrender.com/
-
-
 This is a hospital management system which consists of doctors who can view all the patients, staffs who can add patients and admin who can add or remove staffs and doctos
 
 ## Login
